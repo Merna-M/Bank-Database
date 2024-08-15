@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723739896 source:c:\users\k i n g\desktop\summer 2024\c projects\ban;\bank.cpp
+	<iostream>
+	<vector>
+	"Bank.h"
+
+1723738351 c:\users\k i n g\desktop\summer 2024\c projects\ban;\bank.h
+
+1723738478 source:c:\users\k i n g\desktop\summer 2024\c projects\ban;\main.cpp
+	<iostream>
+	<vector>
+	"Bank.h"
+
